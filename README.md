@@ -6,3 +6,11 @@ $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ## reload
 $ tmux source ~/.tmux.conf
+
+## Install
+```bash
+brew install neovim
+```
+```bash
+brew install tmux
+```
