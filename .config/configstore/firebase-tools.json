@@ -1,0 +1,44 @@
+{
+	"analytics-uuid": "52754f0d-3cc6-47a9-801a-2f03f2fe44e4",
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1631450861372
+	},
+	"usage": true,
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "112112896878177022276",
+		"email": "jun3120@gmail.com",
+		"email_verified": true,
+		"at_hash": "rT9fBN-YdBRJE7wYSCZdqA",
+		"iat": 1631450877,
+		"exp": 1631454477
+	},
+	"tokens": {
+		"expires_at": 1631463635034,
+		"refresh_token": "1//0hQ8_DF1EdcT4CgYIARAAGBESNwF-L9IrviCdWhFFmvtrMBwgPjIp6EnZoKoDBnKYGt-2DpfeF9DhCDPbLVu0uog2SXmE7HLW3VU",
+		"scopes": [
+			"email",
+			"https://www.googleapis.com/auth/cloud-platform",
+			"https://www.googleapis.com/auth/cloudplatformprojects.readonly",
+			"https://www.googleapis.com/auth/firebase",
+			"openid"
+		],
+		"access_token": "ya29.a0ARrdaM9mHbmrMRfa_TpsBtFq3dAPhNNV5gSHo7SXV49O-qTLDrGiOdCm87uE2ErV16vsxLloF6qBkQj9RSWjhBzTBg1Wh3jmuCKokHWYwDy2ztARy7sWd3_JUwqYs2gIjbk82bNpUovYhWS7prx3O8ZJv-3ENwGqOcsh",
+		"expires_in": 3599,
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/firebase openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6Ijc0MjE3YjhkYWRiYjM2NTc4MzU4MGY5ZTkyNDg3ZDcwMWNkMzhmZTYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTEyMTEyODk2ODc4MTc3MDIyMjc2IiwiZW1haWwiOiJqdW4zMTIwQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhdF9oYXNoIjoiemxpQWw2ZXN1djRFVkt2M3VJVlNuZyIsImlhdCI6MTYzMTQ2MDAzNiwiZXhwIjoxNjMxNDYzNjM2fQ.Ab24_ui07u287nfC95fVXYARhgamsarL47cpUvXbhYcflYInKB1qZbv_RjM03fS9X2sJroxoI-oeygNFWxqgXPa_qbp_akzwE6pj0gyTlOXhqWrDlm78ZREws77N5hGHAcvQ1ytjTwPXiJ8uMMgRvNy1gGJXOv3a52eTmk0H05wV6oOYtUz1-UiEcazeRYqKfYSURWDXeaVpjdg7lW3cEVU-tQM8Kyae8kvT7oxQs7dSJ21Tzt9KrKuM0HnGZe-TCN-GXrVgO8gTnJ2E0nywf74WuQf6XQazSFOLk3IB3pS8Yu021G3w9cF4n5yP2hbisqW32jjOiLLPkr_oPc1Q-A"
+	},
+	"activeProjects": {
+		"/Users/juny/enade-app": "enade-donto"
+	}
+}
